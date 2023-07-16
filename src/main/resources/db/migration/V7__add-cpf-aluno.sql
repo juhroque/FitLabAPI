@@ -1,0 +1,1 @@
+alter table alunos add column cpf varchar(13) not null unique;

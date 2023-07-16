@@ -1,0 +1,1 @@
+alter table alunos add column instrutor_id bigint;
